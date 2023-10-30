@@ -1,13 +1,14 @@
 
-title:Done Robert
+
+title:Done Robert Leonard
 show_downloads: false
-logo: /assets/img/portret_enginer.png
+logo: /assets/img/portret_enginner.jpg
 description: My Image
 
 github:
-  is_user_page: true
-  is_project_page: false
-  repository_url: false
+is_user_page: true
+is_project_page: false
+repository_url: false
 # owner_url: https://example.github.io
 # zip_url: http://example.com/download.zip
 # tar_url: http://example.com/download.zip
