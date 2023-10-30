@@ -1,6 +1,8 @@
 
 # [Numele Tău]
-[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyz6wCksGKajEyObDaz372xnPcR3kmkE7lw&usqp=CAU](url)
+
+![image](https://github.com/robertddone/robertddone.github.io/assets/148759606/64b59895-d32b-4ae0-ba5d-c5a91e0a67da)
+[Afla mai multe aici](about.md)
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
 Bine ai venit pe pagina mea de internet de portofoliu! Sunt [Numele Tău], un student pasionat de Geodezie cu o dragoste pentru dezvoltarea web. Aici vei găsi o prezentare a experienței și a proiectelor mele.
